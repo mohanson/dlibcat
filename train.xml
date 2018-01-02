@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <images>
+    <image file="/tmp/cat\1d70f515194052f9771b8f09a8cc3b7e.jpg">
+      <box height="363" left="18" top="37" width="318"/>
+    </image>
+    <image file="/tmp/cat\1f82efe8a7a2b9e517c398ef36f54879.jpg">
+      <box height="64" left="2" top="1" width="68"/>
+    </image>
+    <image file="/tmp/cat\2a24ee65a409d1b4cf82b503d149913f.jpg">
+      <box height="429" left="15" top="8" width="422"/>
+    </image>
+    <image file="/tmp/cat\2b9584012da69066f50754fc0057e102.jpg">
+      <box height="206" left="209" top="63" width="180"/>
+    </image>
+    <image file="/tmp/cat\3dfdafd4e81f215fb845a53c37dba003.jpg">
+      <box height="198" left="86" top="38" width="214"/>
+    </image>
+    <image file="/tmp/cat\4c5cf66ef5565340f838e9d7649f38ad.jpg">
+      <box height="196" left="61" top="77" width="170"/>
+    </image>
+    <image file="/tmp/cat\5e8f7b89add784efb97e838b47cc4881.jpg">
+      <box height="138" left="155" top="57" width="126"/>
+    </image>
+    <image file="/tmp/cat\6a4d54f3d33cbdb02bcdec0b9a144f71.jpg">
+      <box height="142" left="107" top="37" width="150"/>
+    </image>
+    <image file="/tmp/cat\7b29eb74901f69bbdf596d1995852385.jpg">
+      <box height="345" left="1" top="1" width="375"/>
+    </image>
+    <image file="/tmp/cat\8ba45e3fe11fe0520b9cadd2e0bbff5b.jpg">
+      <box height="190" left="92" top="2" width="156"/>
+    </image>
+  </images>
+</dataset>
